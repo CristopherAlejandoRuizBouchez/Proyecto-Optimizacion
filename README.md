@@ -1049,6 +1049,7 @@ def f4(x):
 - f3: Esta función calcula el valor de la expresión x^4 + x^2 - 33 en un punto dado x.
 - f4: Esta función calcula el valor de la expresión 3x^4 - 8x^3 - 6x^2 + 12x en un punto dado x.
 </details>
+
 ### Funciones Multivariable 
 
 <details>
