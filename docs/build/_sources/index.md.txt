@@ -1,0 +1,8 @@
+# Proyecto Optimizacion 
+
+```{eval-rst}
+.. automodule:: multivariadas
+   :members:
+   :undoc-members:
+
+```
