@@ -1200,3 +1200,5 @@ f_rosenbrock_restringida_cubica(x)
 
 f_mishra(x)
 - Descripción: Calcula el valor de la función Mishra en un punto dado x.
+</details>
+</details>
