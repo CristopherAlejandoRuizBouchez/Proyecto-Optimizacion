@@ -1018,6 +1018,7 @@ resultado = optimizador.optimizar()
 - epsilon2: Segunda condición de terminación
 - max_iter: Número máximo de iteraciones
 </details>
+</details>
 
 
 ## Funciones Prueba
