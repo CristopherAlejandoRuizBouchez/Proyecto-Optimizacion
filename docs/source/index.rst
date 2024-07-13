@@ -22,5 +22,5 @@ Contents
 .. toctree::
 
    Instalación
-   codigos
+   codigo
    links
