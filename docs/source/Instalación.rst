@@ -1,4 +1,4 @@
-Insralacion
+Instalacion
 =====
 
 .. _Instalación:
