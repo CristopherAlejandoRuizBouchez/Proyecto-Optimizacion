@@ -37,8 +37,8 @@ o. L0 (float): Longitud inicial del intervalo [a, b].
 o. L (float): Longitud actual del intervalo [a, b].
 
 Methods:
-o. optimize():
-o. Aplica el método de optimización utilizando la técnica de interpolación cuadrática para encontrar el mínimo de la función en el intervalo [a, b].
+    o. optimize():
+    o. Aplica el método de optimización utilizando la técnica de interpolación cuadrática para encontrar el mínimo de la función en el intervalo [a, b].
 
 
 
