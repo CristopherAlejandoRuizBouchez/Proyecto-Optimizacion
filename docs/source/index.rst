@@ -16,7 +16,7 @@ Revisa la sección :doc:`Instalación` para saber como usar este paquete
 
    Este proyecto está en desarrollo activo.
 
-Contents
+Contenido
 --------
 
 .. toctree::
